@@ -1,0 +1,38 @@
+{
+  "name": "bar-brawl-profiles",
+  "title": "Bar Brawl Profiles",
+  "description": "Provides saveable profiles for Bar Brawl moduke",
+  "version": "This is auto replaced",
+  "author": "danielrab",
+  "authors": [
+    {
+      "name": "danielrab",
+      "email": "danielrab.work@gmail.com",
+      "discord": "danielrab#7070"
+    }
+  ],
+  "minimumCoreVersion": "9",
+  "compatibleCoreVersion": "9",
+  "scripts": [],
+  "esmodules": ["module/bar-brawl.js"],
+  "styles": ["styles/bar-brawl.css"],
+  "packs": [],
+  "dependencies": ["barbrawl"],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "socket": false,
+  "url": "This is auto replaced",
+  "manifest": "This is auto replaced",
+  "download": "This is auto replaced",
+  "license": "",
+  "readme": "",
+  "bugs": "",
+  "changelog": "",
+  "system": [],
+  "library": false
+}
